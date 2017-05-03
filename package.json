@@ -1,0 +1,26 @@
+{
+  "name": "guilloche",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-benji6": "^1.2.0",
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "live-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benji6/guilloche.git"
+  },
+  "author": "Ben Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benji6/guilloche/issues"
+  },
+  "homepage": "https://github.com/benji6/guilloche#readme"
+}
